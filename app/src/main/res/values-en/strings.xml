@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bouton_apropos">About us</string>
+    <string name="gagne">Win !</string>
+    <string name="perdu">Lose !</string>
+    <string name="temps">Time remaining</string>
+    <string name="plus_de_temps">No more time !</string>
+    <string name="score">Score</string>
+    <string name="pseudo">Pseudo</string>
+    <string name="normal">Normal</string>
+    <string name="easy">Easy</string>
+    <string name="hard">Hard</string>
+    <string name="choix_difficulte">Difficulty</string>
+    <string name="jouer">Play</string>
+    <string name="annuler">Cancel</string>
+    <string name="mettre_score">Do you want to store your score ?</string>
+    <string name="accepter">Accept</string>
+    <string name="refuser">Deny</string>
+    <string name="reponse">Answer</string>
+</resources>

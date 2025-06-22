@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name" translatable="false">CALCULX</string>
+    <string name="bouton_apropos">À Propos</string>
+    <string name="gagne">Gagné !</string>
+    <string name="perdu">Perdu !</string>
+    <string name="temps">Temps restant</string>
+    <string name="plus_de_temps">Plus de temps !</string>
+    <string name="score">Score</string>
+    <string name="pseudo">Pseudo</string>
+    <string name="normal">Normal</string>
+    <string name="easy">Facile</string>
+    <string name="hard">Difficile</string>
+    <string name="choix_difficulte">Choix de la difficulté</string>
+    <string name="jouer">Jouer</string>
+    <string name="annuler">Annuler</string>
+    <string name="mettre_score">Voulez vous stocker votre score ?</string>
+    <string name="accepter">Accepter</string>
+    <string name="refuser">Refuser</string>
+    <string name="apropos" translatable="false">Rappel des participants : Liam Vasset et Nathan Bonnard
+        \n
+        \nFonctionnalités :
+        \n- Une base de données (utilisant Room) de maximum 10 personnes ayant un pseudo et un score, trié lors de l\'affichage
+        \n- Une popup lors de l\'appui sur le bouton Jouer qui a 3 choix (facile, normal, difficile) qui renvoie vers 3 activités différentes
+        \n- 3 modes de difficulté (merci de toutes les tester 😘)
+        \n- Une popup à la fin d\'une partie qui enregistre ou pas le score s\'il est suffisament élevé pour la base de données
+        \n- Une classe Game qui évite la répétition de code dans les 3 modes de jeu
+        \n
+        \nRemarque : la page de scores peut planter de temps en temps (sûrement une mauvaise gestion de Room ¯\\_(ツ)_/¯)</string>
+    <string name="reponse">Réponse</string>
+</resources>
